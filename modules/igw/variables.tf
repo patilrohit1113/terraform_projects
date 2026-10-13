@@ -1,0 +1,3 @@
+variable "igt_name" {
+  
+}
