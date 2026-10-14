@@ -37,4 +37,9 @@ Thumbs.db
 
 # Editor files
 .vscode/
-.idea/
+.idea/.terraform/
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
